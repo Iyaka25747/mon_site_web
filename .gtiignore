@@ -1,4 +1,4 @@
 tmp/toto.txt
-tmp/*.txt1
+tmp/*.txtB
 tmp/*
 *.txt
